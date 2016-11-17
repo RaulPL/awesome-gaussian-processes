@@ -44,7 +44,7 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
 ## Videos
 
 * [Gaussian Process Basics by David MacKay](http://videolectures.net/gpip06_mackay_gpb/)
-* [Gaussian Processes by Carl Edward Rasmussen](http://videolectures.net/mlss09uk_rasmussen_gp/)
+* [Gaussian Processes by Carl E. Rasmussen](http://videolectures.net/mlss09uk_rasmussen_gp/)
 * [Open Data Science Initiative channel](https://www.youtube.com/user/ProfNeilLawrence)
 * MLSS 2013 Tübingen GP Tutorial
   - [Part 1](https://youtu.be/50Vgw11qn0o), [Part 2](https://youtu.be/TR0LCVslIIM), [Part 3](https://youtu.be/KRLW5abMV6s)
@@ -59,8 +59,15 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
     - [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning](https://arxiv.org/abs/1012.2599)
     - [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
     
+* Survival Analysis
+    - [Gaussian Processes for Survival Analysis](https://arxiv.org/abs/1611.00817)
+    
+* Time Series
+    - [Gaussian processes for time-series modelling](http://rsta.royalsocietypublishing.org/content/371/1984/20110550)
+
 <a name="blogs" />
 ## Blog posts
 
+* [The Kernel Cookbook](http://www.cs.toronto.edu/~duvenaud/cookbook/index.html)
 * [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
 
