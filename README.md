@@ -29,8 +29,8 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
 <a name="thesis" />
 ## Thesis
 
-* [Automatic Model Construction with Gaussian Processes by David K. Duvenaud](https://www.cs.toronto.edu/~duvenaud/thesis.pdf)
-* [Covariance Kernels for Fast Automatic Pattern Discovery and Extrapolation with Gaussian processes by Andrew G. Wilson](http://www.cs.cmu.edu/~andrewgw/andrewgwthesis.pdf)
+* [Automatic Model Construction with Gaussian Processes](https://www.cs.toronto.edu/~duvenaud/thesis.pdf) by David K. Duvenaud
+* [Covariance Kernels for Fast Automatic Pattern Discovery and Extrapolation with Gaussian processes](http://www.cs.cmu.edu/~andrewgw/andrewgwthesis.pdf) by Andrew G. Wilson
 
 <a name="books" />
 ## Tutorials
@@ -50,9 +50,9 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
 <a name="video" />
 ## Videos
 
-* [Gaussian Process Basics by David MacKay](http://videolectures.net/gpip06_mackay_gpb/)
-* [Gaussian Processes by Carl E. Rasmussen](http://videolectures.net/mlss09uk_rasmussen_gp/)
-* [Open Data Science Initiative channel by Neil Lawrence](https://www.youtube.com/user/ProfNeilLawrence)
+* [Gaussian Process Basics](http://videolectures.net/gpip06_mackay_gpb/) by David MacKay
+* [Gaussian Processes](http://videolectures.net/mlss09uk_rasmussen_gp/) by Carl E. Rasmussen
+* [Open Data Science Initiative channel](https://www.youtube.com/user/ProfNeilLawrence) by Neil Lawrence
 * MLSS 2013 Tübingen GP Tutorial
   - [Part 1](https://youtu.be/50Vgw11qn0o), [Part 2](https://youtu.be/TR0LCVslIIM), [Part 3](https://youtu.be/KRLW5abMV6s)
 * MLSS 2015 Tübingen GP Tutorial
