@@ -53,9 +53,9 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
 * [Gaussian Process Basics](http://videolectures.net/gpip06_mackay_gpb/) by David MacKay
 * [Gaussian Processes](http://videolectures.net/mlss09uk_rasmussen_gp/) by Carl E. Rasmussen
 * [Open Data Science Initiative channel](https://www.youtube.com/user/ProfNeilLawrence) by Neil Lawrence
-* MLSS 2013 Tübingen GP Tutorial
+* [MLSS 2013 Tübingen](http://mlss.tuebingen.mpg.de/2013/index.html) GP Tutorial
   - [Part 1](https://youtu.be/50Vgw11qn0o), [Part 2](https://youtu.be/TR0LCVslIIM), [Part 3](https://youtu.be/KRLW5abMV6s)
-* MLSS 2015 Tübingen GP Tutorial
+* [MLSS 2015 Tübingen](http://mlss.tuebingen.mpg.de/2015/index.html) GP Tutorial
   - [Part 1](https://youtu.be/S9RbSCpy_pg), [Part 2](https://youtu.be/MxeQIKGEXb8), [Part 3](https://youtu.be/Ead4TivIOmU)
 
 
