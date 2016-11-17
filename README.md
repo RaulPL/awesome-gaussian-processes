@@ -6,6 +6,7 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
 <!-- MarkdownTOC depth=4 -->
 
 - [Books](#books)
+- [Thesis](#thesis)
 - [Tutorials](#tutorials)
 - [Libraries](#libraries)
 - [Videos](#video)
@@ -24,6 +25,12 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [Machine Learning: a Probabilistic Perspective - Chapter 15](https://www.cs.ubc.ca/~murphyk/MLbook/)
 * [Bayesian Data Analysis 3rd Edition - Chapter 21](http://www.stat.columbia.edu/~gelman/book/)
+
+<a name="thesis" />
+## Thesis
+
+* [Automatic Model Construction with Gaussian Processes by David K. Duvenaud](https://www.cs.toronto.edu/~duvenaud/thesis.pdf)
+* [Covariance Kernels for Fast Automatic Pattern Discovery and Extrapolation with Gaussian processes by Andrew G. Wilson](http://www.cs.cmu.edu/~andrewgw/andrewgwthesis.pdf)
 
 <a name="books" />
 ## Tutorials
@@ -45,7 +52,7 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
 
 * [Gaussian Process Basics by David MacKay](http://videolectures.net/gpip06_mackay_gpb/)
 * [Gaussian Processes by Carl E. Rasmussen](http://videolectures.net/mlss09uk_rasmussen_gp/)
-* [Open Data Science Initiative channel](https://www.youtube.com/user/ProfNeilLawrence)
+* [Open Data Science Initiative channel by Neil Lawrence](https://www.youtube.com/user/ProfNeilLawrence)
 * MLSS 2013 Tübingen GP Tutorial
   - [Part 1](https://youtu.be/50Vgw11qn0o), [Part 2](https://youtu.be/TR0LCVslIIM), [Part 3](https://youtu.be/KRLW5abMV6s)
 * MLSS 2015 Tübingen GP Tutorial
