@@ -22,8 +22,8 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
 ## Books
 
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
-* [Machine Learning: a Probabilistic Perspective Chapter 15](https://www.cs.ubc.ca/~murphyk/MLbook/)
-* [Bayesian Data Analysis 3rd Edition Chapter 21](http://www.stat.columbia.edu/~gelman/book/)
+* [Machine Learning: a Probabilistic Perspective - Chapter 15](https://www.cs.ubc.ca/~murphyk/MLbook/)
+* [Bayesian Data Analysis 3rd Edition - Chapter 21](http://www.stat.columbia.edu/~gelman/book/)
 
 <a name="books" />
 ## Tutorials
