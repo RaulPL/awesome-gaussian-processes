@@ -22,6 +22,8 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
 ## Books
 
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
+* [Machine Learning: a Probabilistic Perspective Chapter 15](https://www.cs.ubc.ca/~murphyk/MLbook/)
+* [Bayesian Data Analysis 3rd Edition Chapter 21](http://www.stat.columbia.edu/~gelman/book/)
 
 <a name="books" />
 ## Tutorials
@@ -34,6 +36,7 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
 * [GPML toolbox](http://www.gaussianprocess.org/gpml/code/matlab/doc/)
 * [GPy](https://github.com/SheffieldML/GPy)
 * [GPflow](https://github.com/GPflow/GPflow)
+* [GPstuff](http://research.cs.aalto.fi/pml/software/gpstuff/)
 * [scikit-learn GP module](http://scikit-learn.org/stable/modules/gaussian_process.html)
 
 
@@ -41,7 +44,7 @@ A curated list of resources for learning Gaussian Processes. Inspired by awesome
 ## Videos
 
 * [Gaussian Process Basics by David MacKay](http://videolectures.net/gpip06_mackay_gpb/)
-* 
+* [Gaussian Processes by Carl Edward Rasmussen](http://videolectures.net/mlss09uk_rasmussen_gp/)
 * [Open Data Science Initiative channel](https://www.youtube.com/user/ProfNeilLawrence)
 * MLSS 2013 Tübingen GP Tutorial
   - [Part 1](https://youtu.be/50Vgw11qn0o), [Part 2](https://youtu.be/TR0LCVslIIM), [Part 3](https://youtu.be/KRLW5abMV6s)
