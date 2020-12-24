@@ -58,7 +58,7 @@ A list of resources for understanding Gaussian Processes. Inspired by [Awesome N
 * [Machine Learning with Signal Processing (ICML 2020 Tutorial)](https://youtu.be/vTRD03_yReI)
 * [Gaussian processes for fun and profit: Probabilistic machine learning in industry](https://youtu.be/uq8VxqeHPj8)
 
-## Packages
+## 📦 Packages
 
 List of packages dedicated to Gaussian Processes or with Gaussian Processes functionalities.
 
