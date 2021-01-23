@@ -81,7 +81,7 @@ List of packages dedicated to Gaussian Processes or with Gaussian Processes func
 * [Stheno.jl](https://github.com/willtebbutt/Stheno.jl)
 
 ### Stan
- * [Stan User's Guide - Gaussian Processes chapter](https://mc-stan.org/docs/2_25/stan-users-guide/gaussian-processes-chapter.html)
+ * [Stan User's Guide - Gaussian Processes chapter](https://mc-stan.org/docs/2_26/stan-users-guide/gaussian-processes-chapter.html)
 
 ### Octave / Matlab
 * [GPstuff](https://research.cs.aalto.fi/pml/software/gpstuff/)
