@@ -41,6 +41,7 @@ A list of resources for understanding Gaussian Processes. Inspired by [Awesome N
 * [Robust Gaussian Process Modeling](https://betanalpha.github.io/assets/case_studies/gaussian_processes.html)
 * [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
 * [The Kernel Cookbook](http://www.cs.toronto.edu/~duvenaud/cookbook/index.html)
+* [Gaussian Process Classification Model in various PPLs](https://luiarthur.github.io/TuringBnpBenchmarks/gpclassify)
 
 
 ## 📺 Videos
