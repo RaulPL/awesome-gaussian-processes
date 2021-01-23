@@ -72,6 +72,7 @@ List of packages dedicated to Gaussian Processes or with Gaussian Processes func
 * [scikit-learn GP module](http://scikit-learn.org/stable/modules/gaussian_process.html)
 * [PyMC3](https://docs.pymc.io/Gaussian_Processes.html)
 * [Pyro](https://pyro.ai/examples/gp.html)
+* [GPJax](https://github.com/thomaspinder/GPJax)
 
 ### Julia
 
