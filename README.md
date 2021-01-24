@@ -63,6 +63,7 @@ A list of resources for understanding Gaussian Processes. Inspired by [Awesome N
   - [Part 1](https://youtu.be/U85XFCt3Lak), [Part 2](https://youtu.be/b635kuSqLww)
 * [Machine Learning with Signal Processing (ICML 2020 Tutorial)](https://youtu.be/vTRD03_yReI)
 * [Gaussian processes for fun and profit: Probabilistic machine learning in industry](https://youtu.be/uq8VxqeHPj8)
+* [A Primer on Gaussian Processes for Regression Analysis | PyData NYC 2019](https://youtu.be/j7Ruu3Yu-70)
 
 ## 📦 Packages
 
