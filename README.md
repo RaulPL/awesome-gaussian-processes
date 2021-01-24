@@ -23,6 +23,7 @@ A list of resources for understanding Gaussian Processes. Inspired by [Awesome N
 * [Bayesian Data Analysis 3rd Edition - Chapter 21](http://www.stat.columbia.edu/~gelman/book/)
 * [Surrogates: Gaussian Process Modeling, Design, and Optimization for the Applied Sciences](https://bookdown.org/rbg/surrogates/)
 * [Machine Learning: a Probabilistic Perspective - Chapter 15](https://www.cs.ubc.ca/~murphyk/MLbook/)
+* [Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/pub/sde_book.pdf)
 
 ### Thesis
 
@@ -35,14 +36,18 @@ A list of resources for understanding Gaussian Processes. Inspired by [Awesome N
 
 ## 🌐 Blog Posts
 
+### Introductory
+
 * [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [Gaussian process introductory tutorial in Python¶](http://adamian.github.io/talks/Damianou_GP_tutorial.html)
 * [Gaussian Processes, not quite for dummies](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 * [Robust Gaussian Process Modeling](https://betanalpha.github.io/assets/case_studies/gaussian_processes.html)
-* [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
 * [The Kernel Cookbook](http://www.cs.toronto.edu/~duvenaud/cookbook/index.html)
-* [Gaussian Process Classification Model in various PPLs](https://luiarthur.github.io/TuringBnpBenchmarks/gpclassify)
 
+### Applications
+
+* [Gaussian Process Classification Model in various PPLs](https://luiarthur.github.io/TuringBnpBenchmarks/gpclassify)
+* [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
 
 ## 📺 Videos
 * [Gaussian Process Summer Schools](http://gpss.cc/) 
@@ -90,19 +95,21 @@ List of packages dedicated to Gaussian Processes or with Gaussian Processes func
 
 ## 📝 Publications
 
-### Time Series
-* [Gaussian processes for time-series modelling](http://rsta.royalsocietypublishing.org/content/371/1984/20110550)
-
-
 ### Bayesian Optimization
 * [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning](https://arxiv.org/abs/1012.2599)
 * [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
 
 ### Causality
 * [Causal Inference using Gaussian Processes with Structured Latent Confounders](http://proceedings.mlr.press/v119/witty20a/witty20a.pdf)
+
+### Multiple-output Gaussian processes
+* [Kernels for Vector-Valued Functions: a Review](https://arxiv.org/abs/1106.6251)
     
 ### Survival Analysis
 * [Gaussian Processes for Survival Analysis](https://arxiv.org/abs/1611.00817)
+
+### Time Series
+* [Gaussian processes for time-series modelling](http://rsta.royalsocietypublishing.org/content/371/1984/20110550)
     
 
 ## 📌 Meetups
