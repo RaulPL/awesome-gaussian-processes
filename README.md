@@ -46,6 +46,7 @@ A list of resources for understanding Gaussian Processes. Inspired by [Awesome N
 
 ### Applications
 
+* [Gaussian process demonstration with Stan](https://avehtari.github.io/casestudies/Motorcycle/motorcycle_gpcourse.html) by Aki Vehtari
 * [Gaussian Process Classification Model in various PPLs](https://luiarthur.github.io/TuringBnpBenchmarks/gpclassify)
 * [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
 
