@@ -81,6 +81,8 @@ List of packages dedicated to Gaussian Processes or with Gaussian Processes func
 * [PyMC3](https://docs.pymc.io/Gaussian_Processes.html)
 * [Pyro](https://pyro.ai/examples/gp.html)
 * [GPJax](https://github.com/thomaspinder/GPJax)
+* [Emukit](https://github.com/EmuKit/emukit)
+* [Stheno](https://github.com/wesselb/stheno)
 
 ### Julia
 
