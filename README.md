@@ -84,6 +84,7 @@ List of packages dedicated to Gaussian Processes or with Gaussian Processes func
 * [GPJax](https://github.com/thomaspinder/GPJax)
 * [Emukit](https://github.com/EmuKit/emukit)
 * [Stheno](https://github.com/wesselb/stheno)
+* [JAX-BO](https://github.com/PredictiveIntelligenceLab/JAX-BO)
 
 ### Julia
 
