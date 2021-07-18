@@ -43,6 +43,7 @@ A list of resources for understanding Gaussian Processes. Inspired by [Awesome N
 * [Gaussian Processes, not quite for dummies](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 * [Robust Gaussian Process Modeling](https://betanalpha.github.io/assets/case_studies/gaussian_processes.html)
 * [The Kernel Cookbook](http://www.cs.toronto.edu/~duvenaud/cookbook/index.html)
+* [Interactive Gaussian Process Visualization](http://www.infinitecuriosity.org/vizgp/)
 
 ### Applications
 
